@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <p>
-            Made with <FaHeart className="heart-icon" /> Rahul Kumar Rai
+            Made with <FaHeart className="heart-icon" />Rahul Kumar Rai
           </p>
           <a 
             href="https://github.com/rahul-kumar-rai/github-readme-generator" 
